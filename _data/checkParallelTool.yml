@@ -1,0 +1,7 @@
+description: Draws a line between on-curve points and BCPs and checks if they're parallel.
+extensionName: Check Parallel Tool
+repository: https://github.com/jtanadi/CheckParallelTool
+extensionPath: CheckParallelTool.roboFontExt
+developer: Jesen Tanadi
+developerURL: http://http://jesentanadi.com
+tags: [contours, design helpers]

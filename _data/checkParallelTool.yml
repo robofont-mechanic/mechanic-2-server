@@ -4,5 +4,5 @@ repository: https://github.com/jtanadi/CheckParallelTool
 extensionPath: CheckParallelTool.roboFontExt
 developer: Jesen Tanadi
 developerURL: http://jesentanadi.com
-icon: https://github.com/jtanadi/CheckParallelTool/blob/master/CheckParallelTool.roboFontExt/resources/checkParallelMechanicIcon.png
+icon: https://raw.githubusercontent.com/jtanadi/CheckParallelTool/master/CheckParallelTool.roboFontExt/resources/checkParallelMechanicIcon.png
 tags: [contours, design helpers]

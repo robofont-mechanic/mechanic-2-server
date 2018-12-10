@@ -1,16 +1,8 @@
-<<<<<<< HEAD
 description: Check if lines connecting BCPs and oncurves are parallel and edit BCPs by manipulating connection line.
-=======
-description: Draws a line between on-curve points and BCPs and checks if they're parallel.
->>>>>>> origin-origin/gh-pages
 extensionName: Check Parallel Tool
 repository: https://github.com/jtanadi/CheckParallelTool
 extensionPath: CheckParallelTool.roboFontExt
 developer: Jesen Tanadi
 developerURL: http://jesentanadi.com
-<<<<<<< HEAD
 icon: https://github.com/jtanadi/CheckParallelTool/blob/master/CheckParallelTool.roboFontExt/resources/checkParallelMechanicIcon.png
 tags: [contours, design helpers]
-=======
-tags: [contours, design helpers]
->>>>>>> origin-origin/gh-pages

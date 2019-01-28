@@ -1,0 +1,8 @@
+description: Build new glyphs using Glyph Construction language.
+developer: Frederik Berlaen
+developerURL: http://typemytype.com
+extensionName: GlyphConstruction
+extensionPath: GlyphConstruction.roboFontExt
+repository: https://github.com/typemytype/GlyphConstruction
+tags: [accents]
+dateAdded: 2018-01-28 12:00:00

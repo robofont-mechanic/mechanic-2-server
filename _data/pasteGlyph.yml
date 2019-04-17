@@ -1,0 +1,8 @@
+description: Interface for quickly pasting a glyph into the one you are currently drawing.
+developer: Tal Leming
+developerURL: https://github.com/typesupply
+extensionName: Paste Glyph
+extensionPath: Paste Glyph.roboFontExt
+repository: https://github.com/typesupply/pasteglyph
+tags: [design helpers, drawing]
+dateAdded: 2019-04-17 09:15:00

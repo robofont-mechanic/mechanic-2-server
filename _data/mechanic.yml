@@ -1,7 +1,0 @@
-description: Package manager for RoboFont extensions.
-developer: Jack Jennings
-developerURL: http://robofontmechanic.com
-extensionName: Mechanic
-extensionPath: Mechanic.roboFontExt
-repository: https://github.com/jackjennings/Mechanic
-tags: [extension management]

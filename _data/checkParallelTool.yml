@@ -1,0 +1,8 @@
+description: Check if lines connecting BCPs and oncurves are parallel and edit BCPs by manipulating connection line.
+extensionName: Check Parallel Tool
+repository: https://github.com/jtanadi/CheckParallelTool
+extensionPath: CheckParallelTool.roboFontExt
+developer: Jesen Tanadi
+developerURL: http://jesentanadi.com
+icon: https://raw.githubusercontent.com/jtanadi/CheckParallelTool/master/CheckParallelTool.roboFontExt/resources/checkParallelMechanicIcon.png
+tags: [contours, design helpers]

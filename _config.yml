@@ -17,7 +17,7 @@ url: http://www.robofontmechanic.com
 # then add in the baseurl here, like this: "/repository-name"
 
 # XXXX change this when a custom url is used
-baseurl: "/mechanic-2-server" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 
 
 permalink: /:title/

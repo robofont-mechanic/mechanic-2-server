@@ -1,0 +1,8 @@
+description: Live visualisation tool of the De Casteljau curve algorithm
+developer: Lukas Schneider
+developerURL: http://www.revolvertype.com
+extensionName: De Casteljau
+extensionPath: DeCasteljau.roboFontExt
+repository: http://github.com/luke-snider/de-casteljau
+icon: http://raw.githubusercontent.com/luke-snider/de-casteljau/master/casteljau_icon.png
+tags: [design helpers, contours, drawing]

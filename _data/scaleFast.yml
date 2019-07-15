@@ -2,7 +2,7 @@ description: Fiddle with proportions of a glyph while keeping stem widths consis
 developer: Loïc Sander
 developerURL: https://github.com/loicsander
 extensionName: ScaleFast
-extensionPath: ScaleFast/ScaleFast.roboFontExt
-repository: https://github.com/loicsander/Robofont-scripts
+extensionPath: ScaleFast.roboFontExt
+repository: http://github.com/roboDocs/ScaleFast
 tags: [interpolation, design helpers]
 dateAdded: 2015-06-08 11:45:56

@@ -1,0 +1,9 @@
+description: Easily edit the PostScript hinting “Blue Zones”
+developer: Andy Clymer
+developerURL: http://www.andyclymer.com
+extensionName: Blue Zone Editor
+extensionPath: BlueZoneEditor.roboFontExt
+repository: https://github.com/andyclymer/BlueZoneEditor-roboFontExt
+icon: https://raw.githubusercontent.com/andyclymer/BlueZoneEditor-roboFontExt/master/resources/icon.png
+tags: [hinting]
+dateAdded: 2018-10-26 18:00:00

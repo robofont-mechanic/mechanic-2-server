@@ -3,6 +3,7 @@ developer: Frederik Berlaen
 developerURL: http://typemytype.com
 extensionName: Goldener
 extensionPath: Goldener.roboFontExt
+icon: http://github.com/typemytype/goldnerRoboFontExtension/raw/master/goldenerMechanicIcon.png
 repository: https://github.com/typemytype/goldnerRoboFontExtension
 tags: [effects]
 dateAdded: 2016-02-11 17:49:47

@@ -1,0 +1,9 @@
+description: Makes switching glyph, space or font windows super easy.
+developer: LettError
+developerURL: http://letterror.com
+extensionName: EditThatNextMaster
+extensionPath: EditThatNextMaster.roboFontExt
+repository: https://github.com/LettError/editThatNextMasterRoboFontExtension
+tags: [masters, designspace, interpolation]
+dateAdded: 2018-12-17 21:00:00
+icon: https://raw.githubusercontent.com/LettError/editThatNextMasterRoboFontExtension/master/EditThatNextMasterIcon.png

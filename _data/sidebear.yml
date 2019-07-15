@@ -1,0 +1,9 @@
+extensionName: Sidebear
+extensionPath: Sidebear.roboFontExt
+description: An Inspector panel for manipulating your glyph’s sidebearings.
+developer: Ryan Bugden
+developerURL: https://ryanbugden.com
+repository: https://github.com/ryanbugden/Sidebear
+infoPath: https://raw.githubusercontent.com/ryanbugden/Sidebear/master/Sidebear.roboFontExt/info.plist
+icon: https://raw.githubusercontent.com/ryanbugden/Sidebear/master/_images/Sidebear_Icon_Mechanic.png
+tags: [spacing, inspector, sidebearings]

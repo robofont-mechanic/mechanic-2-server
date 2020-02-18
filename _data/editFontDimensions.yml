@@ -1,0 +1,10 @@
+extensionName: Edit Font Dimensions
+extensionPath: editFontDimensions.roboFontExt
+description: A tool for visually manipulating your font info’s Dimensions values in Glyph View.
+developer: Ryan Bugden
+developerURL: https://ryanbugden.com
+repository: https://github.com/ryanbugden/Edit-Font-Dimensions
+infoPath: https://raw.githubusercontent.com/ryanbugden/Edit-Font-Dimensions/master/editFontDimensions.roboFontExt/info.plist
+icon: https://raw.githubusercontent.com/ryanbugden/Edit-Font-Dimensions/master/_images/editFontDimensions_mechanicIcon.png
+tags: [font info, dimensions]
+dateAdded: 2020-01-27 12:00:00

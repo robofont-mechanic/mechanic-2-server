@@ -1,0 +1,9 @@
+description: Make and share glyph editor themes.
+developer: Connor Davenport and Andy Clymer
+developerURL: http://www.connordavenport.com
+extensionName: Theme Manager
+extensionPath: ThemeManager.roboFontExt
+repository: https://github.com/connordavenport/Theme-Manager
+icon: https://raw.githubusercontent.com/connordavenport/Theme-Manager/master/resources/Mechanic-Icon.png
+tags: [workspace]
+dateAdded: 2019-06-15 16:03:24

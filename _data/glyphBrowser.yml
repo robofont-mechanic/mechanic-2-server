@@ -4,6 +4,6 @@ developerURL: http://letterror.com
 extensionName: GlyphBrowser
 extensionPath: GlyphBrowser.roboFontExt
 repository: https://github.com/LettError/glyphBrowser
-tags: [unicode, glyph names, scripts, languages, characterset, encoding]
+tags: [unicode, glyph names, languages, glyph set, encoding]
 icon: https://raw.githubusercontent.com/LettError/glyphBrowser/master/GlyphBrowserMechanicIcon.png
 dateAdded: 2016-02-28 16:00:34

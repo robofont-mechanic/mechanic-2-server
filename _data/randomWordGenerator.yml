@@ -1,8 +1,0 @@
-description: Generate random words to proof fonts in Space Center.
-developer: David Jonathan Ross
-developerURL: http://www.fontbureau.com
-extensionName: Random Word Generator
-extensionPath: 'Retired_Extensions/RandomWordGenerator/Random Word Generator.roboFontExt'
-repository: https://github.com/FontBureau/fbOpenTools
-tags: [proofing, spacing, text]
-dateAdded: 2016-02-11 17:49:31

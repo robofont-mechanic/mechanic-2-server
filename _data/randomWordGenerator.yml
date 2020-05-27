@@ -1,7 +1,7 @@
-description: Generate random words to proof fonts in Space Center.
+description: (Superseded by word-o-mat) Generate random words to proof fonts in Space Center.
 developer: David Jonathan Ross
 developerURL: http://www.fontbureau.com
-extensionName: Random Word Generator
+extensionName: Random Word Generator (DEPRECATED)
 extensionPath: 'Retired_Extensions/RandomWordGenerator/Random Word Generator.roboFontExt'
 repository: https://github.com/FontBureau/fbOpenTools
 tags: [proofing, spacing, text]

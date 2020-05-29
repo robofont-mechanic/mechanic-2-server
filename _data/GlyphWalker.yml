@@ -4,4 +4,5 @@ repository: https://github.com/luke-snider/GlyphWalker
 description: GlyphWalker lets you walk simultaneously back and forth through all open fonts while showing the current glyph.
 developer: Lukas Schneider
 developerURL: http://www.revolvertype.com
-icon: https://github.com/luke-snider/GlyphWalker/blob/master/glyphWalkerMechanicIcon.png
+icon: https://raw.githubusercontent.com/luke-snider/GlyphWalker/master/glyphWalkerMechanicIcon.png
+tags: [masters, workspace, windows]

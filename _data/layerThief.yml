@@ -1,0 +1,10 @@
+extensionName: Layer Thief
+description:   Quickly copy layers between fonts.
+repository:    http://github.com/rdmcmurray/layer-thief
+extensionPath: LayerThief.roboFontExt
+developer:     Robert McMurray
+developerURL:  http://github.com/rdmcmurray
+tags:          [ layers, copy ]
+infoPath:      https://raw.githubusercontent.com/rdmcmurray/layer-thief/master/LayerThief.roboFontExt/info.plist
+icon:          https://raw.githubusercontent.com/rdmcmurray/layer-thief/master/layerThiefMechanicIcon.png
+zipPath:       http://github.com/rdmcmurray/layer-thief/archive/master.zip

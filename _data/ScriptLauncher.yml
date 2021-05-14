@@ -1,0 +1,9 @@
+description: A tool like Spotlight/Alfred for quickly finding and running scripts.
+developer: Mark Record
+developerURL: http://commercialtype.com
+extensionName: ScriptLauncher
+extensionPath: ScriptLauncher.roboFontExt
+repository: https://github.com/mrecord/ScriptLauncher
+tags: [ interface workflow workspace ]
+dateAdded: 2021-05-14 12:00:01
+icon: https://raw.githubusercontent.com/mrecord/ScriptLauncher/master/ScriptLauncherMechanicIcon.png

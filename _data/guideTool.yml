@@ -1,0 +1,8 @@
+description: A tool for editing guides.
+developer: Tal Leming
+developerURL: https://github.com/typesupply
+extensionName: Guide Tool
+extensionPath: build/Guide Tool.roboFontExt
+repository: https://github.com/typesupply/guidetool
+tags: [guideline, guides]
+dateAdded: 2021-07-22 21:48:00

@@ -1,0 +1,9 @@
+description: Drawing tool for symmetrical round shapes, super-ellipse, oval-like, flat sides, octagons and hexagons.
+developer: LettError
+developerURL: http://letterror.com
+extensionName: SymmetricalRoundShapeDrawingTool
+extensionPath: SymmetricalRoundShapeDrawingTool.roboFontExt
+repository: https://github.com/LettError/symmetricalRoundShapeDrawingTool
+tags: [contours, drawingtool, shapes]
+dateAdded: 2020-05-18 12:00:00
+icon: https://raw.githubusercontent.com/LettError/symmetricalRoundShapeDrawingTool/master/icon.png

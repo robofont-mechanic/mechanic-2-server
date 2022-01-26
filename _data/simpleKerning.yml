@@ -1,0 +1,15 @@
+extensionName: Simple Kerning
+repository: https://gitlab.com/typoman/robofont-kerning-tool
+extensionPath: SimpleKerning.roboFontExt
+description: A bidirectional kerning and grouping extension.
+developer: Bahman Eslami
+developerURL: 'http://bahman.design'
+tags: 
+  - kerning
+  - groups
+  - window
+  - rtl
+  - bidrectional
+infoPath: https://gitlab.com/typoman/robofont-kerning-tool/-/raw/master/robofontSimpleKernWindow.yml
+icon: https://gitlab.com/typoman/robofont-kerning-tool/-/raw/master/simpleKerningIcon.png
+dateAdded: 2020-07-18 10:10:10

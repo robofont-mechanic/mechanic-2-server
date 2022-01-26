@@ -15,6 +15,7 @@ excludeSearch: true
             "developer" : {{ item.developer | jsonify }},
             "developerURL" : {{ item.developerURL | jsonify }},
             {% if item.icon %}"icon": {{ item.icon | jsonify }},{%- endif -%}
+            {% if item.zipPath %}"zipPath": {{ item.zipPath | jsonify }},{%- endif -%}
             "tags" : {{ item.tags | jsonify }}
         }{% unless forloop.last %},{% endunless %}
     {%- endfor -%}

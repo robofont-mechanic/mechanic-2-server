@@ -1,8 +1,0 @@
-description: A tool to show the length and angle of handles.
-developer: Gustavo Ferreira
-developerURL: http://hipertipo.com
-extensionName: Measure Handles Tool
-extensionPath: MeasureHandles.roboFontExt
-repository: https://github.com/johannesbreyer/HandleLength
-tags: [design helpers]
-dateAdded: 2016-02-11 17:49:50

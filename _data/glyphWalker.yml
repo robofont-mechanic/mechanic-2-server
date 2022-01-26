@@ -1,8 +1,0 @@
-description: Simultaneously walk back and forth trough all fonts while showing the current glyph.
-developer: Lukas Schneider
-developerURL: http://www.revolvertype.com
-extensionName: GlyphWalker
-extensionPath: GlyphWalker.roboFontExt
-repository: https://github.com/luke-snider/GlyphWalker
-tags: [workflow, interpolation]
-dateAdded: 2017-05-26 12:34:54

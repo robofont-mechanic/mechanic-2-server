@@ -1,0 +1,9 @@
+description: A tool that automatically updates chosen auto installed fonts after the fonts are edited. It also auto installs chosen UFOs that aren't open in RoboFont.
+developer: Tal Leming
+developerURL: https://github.com/typesupply
+extensionName: Auto Install
+extensionPath: build/Auto Install.roboFontExt
+repository: https://github.com/typesupply/autoinstall
+tags: [generating fonts, workflow]
+icon: https://raw.githubusercontent.com/typesupply/autoinstall/main/autoInstallMechanicIcon.png
+dateAdded: 2022-06-15 21:48:00

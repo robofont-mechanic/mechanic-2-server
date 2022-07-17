@@ -2,7 +2,7 @@ description: View an overlay of any glyphs from any font behind or beside what y
 developer: David Jonathan Ross
 developerURL: http://www.fontbureau.com
 extensionName: Overlay UFOs
-extensionPath: 'OverlayUFOs/Overlay UFOs.roboFontExt'
+extensionPath: 'OverlayUFOs/build/OverlayUFOs.roboFontExt'
 repository: https://github.com/FontBureau/fbOpenTools
 tags: [design helpers, interpolation]
 dateAdded: 2016-02-11 17:49:31

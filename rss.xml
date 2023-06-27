@@ -14,7 +14,7 @@ excludeSearch: true
 <item>
 <title>{{ item.extensionName }} by {{ item.developer }}</title>
 <link>{{ item.repository }}</link>
-<description>{{ item.description }}</description>
+<description>{{ item.description | escape }}</description>
 </item>
 {% endfor %}
 </channel>

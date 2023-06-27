@@ -3,20 +3,21 @@ layout: null
 exclude: true
 excludeSearch: true
 ---
-{% include extensions %}
+{%- include extensions -%}
 {
     "lastUpdate" : "{{ site.time | date: '%Y-%m-%d %H:%M' }}",
     "extensions" : [
-    {% for item in extensions %}    {
+    {%- for item in extensions -%}    {
             "extensionName": {{ item.extensionName | jsonify }},
             "repository" :  {{ item.repository | jsonify }},
             "extensionPath" :  {{ item.extensionPath | jsonify }},
             "description" : {{ item.description | jsonify }},
             "developer" : {{ item.developer | jsonify }},
             "developerURL" : {{ item.developerURL | jsonify }},
-            {% if item.icon %}"icon": {{ item.icon | jsonify }},{% endif %}
+            {% if item.icon %}"icon": {{ item.icon | jsonify }},{%- endif -%}
+            {% if item.zipPath %}"zipPath": {{ item.zipPath | jsonify }},{%- endif -%}
             "tags" : {{ item.tags | jsonify }}
         }{% unless forloop.last %},{% endunless %}
-    {% endfor %}
+    {%- endfor -%}
     ]
 }

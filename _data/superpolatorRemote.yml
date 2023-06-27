@@ -1,8 +1,0 @@
-description: Tell Superpolator to update when saving a UFO.
-developer: LettError
-developerURL: http://letterror.com
-extensionName: SuperpolatorRemote
-extensionPath: SuperpolatorRemote.roboFontExt
-repository: https://github.com/LettError/SuperpolatorRemote
-tags: [interpolation, mutatorMath]
-dateAdded: 2016-03-17 12:05:03

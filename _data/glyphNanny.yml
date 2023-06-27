@@ -2,7 +2,8 @@ description: A live report about potential drawing issues in your glyph.
 developer: Tal Leming
 developerURL: http://tools.typesupply.com
 extensionName: Glyph Nanny
-extensionPath: Glyph Nanny.roboFontExt
+extensionPath: build/Glyph Nanny.roboFontExt
 repository: https://github.com/typesupply/glyph-nanny
 tags: [contours, revisions]
+icon: https://raw.githubusercontent.com/typesupply/glyph-nanny/master/GlyphNannyMechanicIcon.png
 dateAdded: 2016-07-16 16:02:40

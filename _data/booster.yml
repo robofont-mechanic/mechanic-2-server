@@ -1,8 +1,0 @@
-description: A framework used by other extensions to enhance their functionality.
-developer: Tal Leming
-developerURL: https://github.com/typesupply
-extensionName: Booster
-extensionPath: Booster.roboFontExt
-repository: https://github.com/typesupply/booster
-tags: [scripting, framework]
-dateAdded: 2019-04-17 09:15:00

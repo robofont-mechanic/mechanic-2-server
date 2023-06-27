@@ -1,0 +1,9 @@
+extensionName: CAM Simulator
+repository: https://github.com/roberto-arista/cam-simulator
+extensionPath: build/CAMSimulator.roboFontExt
+description: Visualize CNC limitations right in the glyph editor
+developer: Roberto Arista
+developerURL: https://github.com/roberto-arista
+tags: [ contours drawing ]
+icon: https://raw.githubusercontent.com/roberto-arista/cam-simulator/main/CAMSimulatorMechanicIcon.png
+dateAdded: 2021-12-20 15:28:00

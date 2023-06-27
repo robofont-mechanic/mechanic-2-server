@@ -1,8 +1,8 @@
 description: Enable group spacing in the Space Center.
 developer: Gustavo Ferreira
 developerURL: http://github.com/gferreira
-extensionName: groupSpacing
+extensionName: Group Spacing
 extensionPath: groupSpacing.roboFontExt
 repository: http://github.com/gferreira/groupSpacing
-tags: [spacing]
+tags: [spacing, kerning]
 dateAdded: 2019-02-14 12:00:00

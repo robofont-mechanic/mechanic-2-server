@@ -1,0 +1,9 @@
+description: See the glyph.markColor in the edit glyph window
+developer: Jackson Showalter-Cavanaugh
+developerURL: http://www.okaytype.com
+extensionName: Marky Mark
+extensionPath: MarkyMark.roboFontExt
+repository: https://github.com/okay-type/Markymark-roboFontExt
+icon: https://raw.githubusercontent.com/okay-type/Markymark-roboFontExt/master/source/resources/icon.png
+tags: [workspace, mark]
+dateAdded: 2019-11-05 18:00:00

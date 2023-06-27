@@ -1,0 +1,15 @@
+extensionName: Mark Positioning
+repository: https://gitlab.com/typoman/robofont-mark-tool
+extensionPath: build/MarkPositioning.roboFontExt
+description: Tools for adjusting and generating mark positioning feature.
+developer: Bahman Eslami
+developerURL: http://bahman.design
+tags:
+  - mark positioning
+  - tool
+  - anchor
+  - accent
+  - diacritics
+infoPath: https://gitlab.com/typoman/robofont-mark-tool/-/raw/master/build/RoboFontMarkTool.roboFontExt/info.plist
+icon: https://gitlab.com/typoman/robofont-mark-tool/-/raw/master/robofontMarkToolIcon.png
+dateAdded: 2020-08-07 10:10:10

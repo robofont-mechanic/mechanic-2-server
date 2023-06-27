@@ -1,0 +1,8 @@
+description: Glyph editing tools that pop up only when you need them.
+developer: Tal Leming
+developerURL: https://github.com/typesupply
+extensionName: Pop Up Tools
+extensionPath: build/Pop Up Tools.roboFontExt
+repository: https://github.com/typesupply/popuptools
+tags: [contours, design helpers, drawing, glyph, workspace]
+dateAdded: 2020-05-28 16:20:00

@@ -1,0 +1,9 @@
+extensionName: Fit Glyph Cells
+extensionPath: fitGlyphCells.roboFontExt
+description: A button that fits all glyphs into your Font Overview.
+developer: Ryan Bugden
+developerURL: https://ryanbugden.com
+repository: https://github.com/ryanbugden/Fit-Glyph-Cells
+infoPath: https://raw.githubusercontent.com/ryanbugden/Fit-Glyph-Cells/master/fitGlyphCells.roboFontExt/info.plist
+icon: https://raw.githubusercontent.com/ryanbugden/Fit-Glyph-Cells/master/_images/_fitGlyphCells_Icon.png
+tags: [font overview, glyph cells]

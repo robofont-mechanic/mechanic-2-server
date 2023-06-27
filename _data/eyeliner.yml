@@ -1,0 +1,10 @@
+extensionName: Eyeliner
+extensionPath: Eyeliner.roboFontExt
+description: Highlights points that are aligned with vertical font dimensions or guides.
+developer: Ryan Bugden
+developerURL: https://ryanbugden.com
+repository: https://github.com/ryanbugden/Eyeliner
+infoPath: https://raw.githubusercontent.com/ryanbugden/Eyeliner/master/Eyeliner.roboFontExt/info.plist
+icon: https://raw.githubusercontent.com/ryanbugden/Eyeliner/master/_images/Eyeliner_mechanicIcon.png
+tags: [alignment, guides, font dimensions]
+dateAdded: 2020-01-26 12:00:00

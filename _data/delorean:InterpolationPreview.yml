@@ -1,9 +1,10 @@
 description: Preview how a glyph will interpolate while drawing in RoboFont
 developer: CJ Dunn
-developerURL: http://thecjdunn.com
+developerURL: http://cjtype.com
 extensionName: 'Delorean: Interpolation Preview'
-extensionPath: Delorean/Delorean.roboFontExt
-repository: https://github.com/cjdunn/RoboFontExtensions
-icon: https://raw.githubusercontent.com/cjdunn/RoboFontExtensions/master/Delorean/Delorean.roboFontExt/html/DeloreanMechanicIcon.png
+extensionPath: Delorean.roboFontExt
+repository: https://github.com/cjdunn/delorean
+infoPath: https://raw.githubusercontent.com/cjdunn/delorean/main/Delorean/Delorean.roboFontExt/info.plist
+icon: https://raw.githubusercontent.com/cjdunn/delorean/main/Delorean/Delorean.roboFontExt/html/DeloreanMechanicIcon.png
 tags: [interpolation]
 dateAdded: 2016-02-11 17:49:29

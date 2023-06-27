@@ -1,0 +1,8 @@
+description: Keep track of and share a project.
+developer: Frederik Berlaen
+developerURL: http://typemytype.com
+extensionName: RoboFontProject
+extensionPath: RoboFontProject.roboFontExt
+repository: https://github.com/typemytype/projectRoboFontExtension
+tags: [workspace]
+dateAdded: 2019-11-17 12:00:00

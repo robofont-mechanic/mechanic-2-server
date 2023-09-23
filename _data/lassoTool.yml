@@ -1,0 +1,9 @@
+description: A polygon selection tool.
+developer: Frederik Berlaen
+developerURL: http://typemytype.com
+extensionName: Lasso Tool
+extensionPath: LassoTool.roboFontExt
+repository: https://github.com/roboDocs/LassoTool
+icon: https://raw.githubusercontent.com/roboDocs/LassoTool/main/images/lassoToolMechanicIcon.png
+tags: [design helpers, selection, glyph]
+dateAdded: 2016-02-11 17:49:49

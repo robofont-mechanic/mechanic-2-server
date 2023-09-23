@@ -1,8 +1,9 @@
 description: Visually sets underline and strikethrough values for font info.
-developer: Ben Kiel
+developer: Ben Kiel, Ryan Bugden
 developerURL: http://www.typefounding.com
 extensionName: Underline Strikethrough
 extensionPath: 'Underline Strikethrough.roboFontExt'
 repository: https://github.com/Typefounding/underlineStrikethrough
+icon: https://raw.githubusercontent.com/Typefounding/underlineStrikethrough/master/_images/mechanicIcon.png
 tags: [mastering]
 dateAdded: 2016-02-11 17:49:39

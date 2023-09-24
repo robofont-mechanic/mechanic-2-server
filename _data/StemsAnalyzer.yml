@@ -1,0 +1,9 @@
+description: An extension for precision point insertion.
+developer: Jérémie Hornus and Connor Davenport
+developerURL: https://black-foundry.com https://connordavenport.com
+extensionName: StemsAnalyser
+extensionPath: StemsAnalyser.roboFontExt
+repository: https://github.com/connordavenport/RobofontTools/tree/master/StemsAnalyser/StemsAnalyzer.roboFontExt
+icon: https://raw.githubusercontent.com/connordavenport/RobofontTools/master/StemsAnalyser/Resources/icon.png
+tags: [hinting]
+dateAdded: 2023-09-22 20:05:24

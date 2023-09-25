@@ -1,9 +1,9 @@
-description: An extension for precision point insertion.
+description: An extension for setting PostScript-hinting stems
 developer: Jérémie Hornus and Connor Davenport
-developerURL: https://black-foundry.com https://connordavenport.com
+developerURL: https://black-foundry.com
 extensionName: StemsAnalyser
 extensionPath: StemsAnalyser.roboFontExt
-repository: https://github.com/connordavenport/RobofontTools/tree/master/StemsAnalyser/StemsAnalyzer.roboFontExt
-icon: https://raw.githubusercontent.com/connordavenport/RobofontTools/master/StemsAnalyser/Resources/icon.png
+repository: https://github.com/roboDocs/StemAnalyzer/tree/main/StemAnalyzer.roboFontExt
+icon: https://github.com/roboDocs/StemAnalyzer/blob/main/StemAnalyzer.roboFontExt/resources/icon.png?raw=true
 tags: [hinting]
-dateAdded: 2023-09-22 20:05:24
+dateAdded: 2023-09-25 20:05:24

@@ -1,8 +1,0 @@
-description: 'Tools for working with kerning: KernObserver and KernTool.'
-developer: Alexander Lubovenko
-developerURL: https://github.com/typedev
-extensionName: KernTool
-extensionPath: KernTool.roboFontExt
-repository: https://github.com/typedev/KernTool
-tags: [kerning]
-dateAdded: 2017-01-17 11:24:51

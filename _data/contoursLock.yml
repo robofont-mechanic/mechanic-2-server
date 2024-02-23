@@ -1,8 +1,0 @@
-description: Lock contours so you can not edit them.
-developer: Thom Janssen
-developerURL: http://www.geenbitter.nl
-extensionName: ContoursLock
-extensionPath: ContoursLock.roboFontExt
-repository: https://github.com/thomgb/ContoursLock
-tags: [contours, design helpers]
-dateAdded: 2014-05-20 20:17:05

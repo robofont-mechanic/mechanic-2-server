@@ -3,7 +3,9 @@ developer: Andy Clymer
 developerURL: http://www.andyclymer.com
 extensionName: Interpolation Slider
 extensionPath: InterpolationSlider.roboFontExt
-repository: https://github.com/andyclymer/InterpolationSlider-RoboFontExt
-icon: https://raw.githubusercontent.com/andyclymer/InterpolationSlider-RoboFontExt/master/resources/icon.png
+repository: https://github.com/roboDocs/InterpolationSliderRoboFontExt
+icon: https://raw.githubusercontent.com/roboDocs/InterpolationSliderRoboFontExt/HEAD/source/resources/icon.png
+infoPath: https://raw.githubusercontent.com/roboDocs/InterpolationSliderRoboFontExt/HEAD/info.yaml
+zipPath: https://github.com/roboDocs/InterpolationSliderRoboFontExt/releases/latest/download/InterpolationSlider.roboFontExt.zip
 tags: [interpolation]
 dateAdded: 2018-06-25 17:30:00

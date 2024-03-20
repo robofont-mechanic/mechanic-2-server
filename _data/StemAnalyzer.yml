@@ -1,6 +1,6 @@
 description: An extension for setting PostScript-hinting stems
 developer: Jérémie Hornus and Connor Davenport
-developerURL: https://black-foundry.com
+developerURL: https://github.com/roboDocs/StemAnalyzer
 extensionName: StemAnalyzer
 extensionPath: StemAnalyzer.roboFontExt
 repository: https://github.com/roboDocs/StemAnalyzer

@@ -1,8 +1,10 @@
 description: Show neighbour glyphs when editing a glyph.
 developer: Frederik Berlaen
 developerURL: http://typemytype.com
-extensionName: Ramsay St.
+extensionName: Ramsay St
 extensionPath: RamsaySt.roboFontExt
 repository: https://github.com/typemytype/ramsayStreetRoboFontExtension
+infoPath: https://raw.githubusercontent.com/typemytype/ramsayStreetRoboFontExtension/HEAD/info.yaml
+zipPath: https://github.com/typemytype/ramsayStreetRoboFontExtension/releases/latest/download/RamsaySt.roboFontExt.zip
 tags: [design helpers]
 dateAdded: 2016-02-11 17:49:41

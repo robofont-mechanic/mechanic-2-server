@@ -3,7 +3,9 @@ developer: Frederik Berlaen
 developerURL: http://typemytype.com
 extensionName: PathOperator
 extensionPath: PathOperator.roboFontExt
-icon: http://github.com/typemytype/pathOperatorRoboFontExtension/raw/master/pathOperatorMechanicIcon.png
 repository: https://github.com/typemytype/pathOperatorRoboFontExtension
+infoPath: https://raw.githubusercontent.com/typemytype/pathOperatorRoboFontExtension/HEAD/info.yaml
+zipPath: https://github.com/typemytype/pathOperatorRoboFontExtension/releases/latest/download/PathOperator.roboFontExt.zip
+icon: http://github.com/typemytype/pathOperatorRoboFontExtension/raw/master/pathOperatorMechanicIcon.png
 tags: [contours]
 dateAdded: 2016-02-11 17:49:48

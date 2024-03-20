@@ -4,5 +4,7 @@ developerURL: http://typemytype.com
 extensionName: KerningChecker
 extensionPath: KerningChecker.roboFontExt
 repository: https://github.com/typemytype/kerningCheckerRoboFontExtension
+infoPath: https://raw.githubusercontent.com/typemytype/kerningCheckerRoboFontExtension/HEAD/info.yaml
+zipPath: https://github.com/typemytype/kerningCheckerRoboFontExtension/releases/latest/download/KerningChecker.roboFontExt.zip
 tags: [kerning, mastering]
 dateAdded: 2016-02-24 10:33:19

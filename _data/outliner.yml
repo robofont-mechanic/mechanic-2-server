@@ -4,5 +4,7 @@ developerURL: http://typemytype.com
 extensionName: Outliner
 extensionPath: Outliner.roboFontExt
 repository: https://github.com/typemytype/outlinerRoboFontExtension
+infoPath: https://raw.githubusercontent.com/typemytype/outlinerRoboFontExtension/HEAD/info.yaml
+zipPath: https://github.com/typemytype/outlinerRoboFontExtension/releases/latest/download/Outliner.roboFontExt.zip
 tags: [contours, drawing]
 dateAdded: 2016-02-11 17:49:41

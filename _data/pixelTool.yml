@@ -3,7 +3,9 @@ developer: Frederik Berlaen
 developerURL: http://typemytype.com
 extensionName: Pixel Tool
 extensionPath: PixelTool.roboFontExt
-icon: https://github.com/typemytype/pixelToolRoboFontExtension/raw/master/PixelToolMechanicIcon.png
 repository: https://github.com/typemytype/pixelToolRoboFontExtension
+infoPath: https://raw.githubusercontent.com/typemytype/pixelToolRoboFontExtension/HEAD/info.yaml
+zipPath: https://github.com/typemytype/pixelToolRoboFontExtension/releases/latest/download/PixelTool.roboFontExt.zip
+icon: https://github.com/typemytype/pixelToolRoboFontExtension/raw/master/PixelToolMechanicIcon.png
 tags: [contours, drawing]
 dateAdded: 2016-02-11 17:49:52

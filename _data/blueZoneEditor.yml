@@ -4,6 +4,8 @@ developerURL: http://www.andyclymer.com
 extensionName: Blue Zone Editor
 extensionPath: BlueZoneEditor.roboFontExt
 repository: https://github.com/roboDocs/BlueZoneEditorRoboFontExt
+infoPath: https://raw.githubusercontent.com/roboDocs/BlueZoneEditorRoboFontExt/HEAD/info.yaml
+zipPath: https://github.com/roboDocs/BlueZoneEditorRoboFontExt/releases/latest/download/BlueZoneEditor.roboFontExt.zip
 icon: https://raw.githubusercontent.com/roboDocs/BlueZoneEditorRoboFontExt/master/resources/icon.png
 tags: [hinting]
 dateAdded: 2018-10-26 18:00:00

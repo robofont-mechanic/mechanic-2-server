@@ -4,5 +4,7 @@ developerURL: http://typemytype.com
 extensionName: Slanter
 extensionPath: Slanter.roboFontExt
 repository: https://github.com/typemytype/slanterRoboFontExtension
+infoPath: https://raw.githubusercontent.com/typemytype/slanterRoboFontExtension/HEAD/info.yaml
+zipPath: https://github.com/typemytype/slanterRoboFontExtension/releases/latest/download/Slanter.roboFontExt.zip
 tags: [design helpers, italics]
 dateAdded: 2016-02-11 17:49:47

@@ -1,8 +1,10 @@
 description: Helper for using pens to transform glyph outlines.
 developer: Loïc Sander
 developerURL: https://github.com/loicsander
-extensionName: PenBallWizard
+extensionName: PenBall Wizard
 extensionPath: PenBallWizard.roboFontExt
 repository: https://github.com/roboDocs/PenBallWizard
+infoPath: https://raw.githubusercontent.com/roboDocs/PenBallWizard/HEAD/info.yaml
+zipPath: https://github.com/roboDocs/PenBallWizard/releases/latest/download/PenBallWizard.roboFontExt.zip
 tags: [contours]
 dateAdded: 2015-05-08 17:07:37

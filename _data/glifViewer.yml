@@ -4,5 +4,7 @@ developerURL: http://typemytype.com
 extensionName: Glif Viewer
 extensionPath: GlifViewer.roboFontExt
 repository: https://github.com/typemytype/glifViewerRoboFontExtension
+infoPath: https://raw.githubusercontent.com/typemytype/glifViewerRoboFontExtension/HEAD/info.yaml
+zipPath: https://github.com/typemytype/glifViewerRoboFontExtension/releases/latest/download/GlifViewer.roboFontExt.zip
 tags: [debugging, UFO]
 dateAdded: 2016-02-11 17:49:41

@@ -4,5 +4,7 @@ developerURL: https://github.com/loicsander
 extensionName: ScaleFast
 extensionPath: ScaleFast.roboFontExt
 repository: https://github.com/roboDocs/ScaleFast
+infoPath: https://raw.githubusercontent.com/roboDocs/ScaleFast/HEAD/info.yaml
+zipPath: https://github.com/roboDocs/ScaleFast/releases/latest/download/ScaleFast.roboFontExt.zip
 tags: [interpolation, design helpers]
 dateAdded: 2015-06-08 11:45:56

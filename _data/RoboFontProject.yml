@@ -4,5 +4,7 @@ developerURL: http://typemytype.com
 extensionName: RoboFontProject
 extensionPath: RoboFontProject.roboFontExt
 repository: https://github.com/typemytype/projectRoboFontExtension
+infoPath: https://raw.githubusercontent.com/typemytype/projectRoboFontExtension/HEAD/info.yaml
+zipPath: https://github.com/typemytype/projectRoboFontExtension/releases/latest/download/RoboFontProject.roboFontExt.zip
 tags: [workspace]
 dateAdded: 2019-11-17 12:00:00

@@ -1,0 +1,9 @@
+extensionName: Smooth Operator
+extensionPath: SmoothOperator.roboFontExt
+description: A window for diagnosing all angle/ratio interpolation issues.
+developer: Ryan Bugden
+developerURL: https://ryanbugden.com
+repository: https://github.com/ryanbugden/Smooth-Operator
+infoPath: https://raw.githubusercontent.com/ryanbugden/Smooth-Operator/master/SmoothOperator.roboFontExt/info.plist
+icon: https://raw.githubusercontent.com/ryanbugden/Smooth-Operator/main/images/mechanic_icon.png
+tags: [interpolation, points]

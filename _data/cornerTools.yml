@@ -3,7 +3,9 @@ developer: Loïc Sander
 developerURL: https://github.com/loicsander
 extensionName: CornerTools
 extensionPath: CornerTools.roboFontExt
-repository: http://github.com/roboDocs/CornerTools
-icon: http://github.com/roboDocs/CornerTools/raw/master/CornerToolsMechanicIcon.png
+repository: https://github.com/roboDocs/CornerTools
+infoPath: https://raw.githubusercontent.com/roboDocs/CornerTools/HEAD/info.yaml
+zipPath: https://github.com/roboDocs/CornerTools/releases/latest/download/CornerTools.roboFontExt.zip
+icon: https://github.com/roboDocs/CornerTools/raw/master/CornerToolsMechanicIcon.png
 tags: [contours, design helpers]
 dateAdded: 2014-11-10 14:04:33

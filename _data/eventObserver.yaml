@@ -1,8 +1,10 @@
 description: Observes events and displays attributes which are available in the callback info dict.
 developer: Frederik Berlaen
 developerURL: http://typemytype.com
-extensionName: EventObserver
+extensionName: eventObserver
 extensionPath: eventObserver.roboFontExt
 repository: https://github.com/roboDocs/eventObserverExtension
+infoPath: https://raw.githubusercontent.com//roboDocs/eventObserverExtension/HEAD/info.yaml
+zipPath: https://github.com/roboDocs/eventObserverExtension/releases/latest/download/eventObserver.roboFontExt.zip
 tags: [debugging]
 dateAdded: 2019-02-09 12:00:00

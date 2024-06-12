@@ -4,5 +4,7 @@ developerURL: http://typemytype.com
 extensionName: Layer Preview
 extensionPath: LayerPreview.roboFontExt
 repository: https://github.com/typemytype/layerPreviewRoboFontExtension
+infoPath: https://raw.githubusercontent.com/typemytype/layerPreviewRoboFontExtension/HEAD/info.yaml
+zipPath: https://github.com/typemytype/layerPreviewRoboFontExtension/releases/latest/download/LayerPreview.roboFontExt.zip
 tags: [layers]
 dateAdded: 2016-02-11 17:49:40

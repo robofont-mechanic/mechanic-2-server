@@ -1,0 +1,10 @@
+extensionName: ScriptsBoard
+repository: https://github.com/typedev/ScriptsBoard
+extensionPath: ScriptsBoard.roboFontExt
+description: ScriptsBoard is an extension that adds a quick launch bar for your favorite scripts to the Inspector
+developer: Alexander Lubovenko
+developerURL: https://github.com/typedev
+tags: [ workspace ]
+icon: https://raw.githubusercontent.com/typedev/ScriptsBoard/master/icon.png
+zipPath: https://github.com/typedev/ScriptsBoard/archive/master.zip
+dateAdded: 2022-07-29 16:43:42

@@ -4,5 +4,7 @@ developerURL: http://typemytype.com
 extensionName: Logger
 extensionPath: Logger.roboFontExt
 repository: https://github.com/typemytype/loggerRoboFontExtension
+infoPath: https://raw.githubusercontent.com/typemytype/loggerRoboFontExtension/HEAD/info.yaml
+zipPath: https://github.com/typemytype/loggerRoboFontExtension/releases/latest/download/Logger.roboFontExt.zip
 tags: [debugging]
 dateAdded: 2016-02-11 17:49:48

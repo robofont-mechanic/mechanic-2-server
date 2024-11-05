@@ -1,0 +1,9 @@
+description: 'Draw stars in the Glyph Editor.'
+developer: Adrien Bachelart
+developerURL: https://github.com/adbac
+extensionName: Star Tool
+extensionPath: StarTool.roboFontExt
+repository: https://github.com/adbac/starTool
+tags: [contours, drawing]
+icon: https://raw.githubusercontent.com/adbac/starTool/refs/heads/main/starToolMechanicIcon.png
+dateAdded: 2024-11-05 12:40:30

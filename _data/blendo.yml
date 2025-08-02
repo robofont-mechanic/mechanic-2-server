@@ -4,7 +4,7 @@ developer: Tal Leming
 developerURL: https://github.com/typesupply
 repository: https://github.com/typesupply/blendo
 extensionPath: Blendo.roboFontExt
-icon: https://raw.githubusercontent.com/typesupply/blendo/HEAD/blendoMechanicIcon.png
+icon: https://raw.githubusercontent.com/typesupply/blendo/HEAD/spaceRangerMechanicIcon.png
 infoPath: https://raw.githubusercontent.com/typesupply/blendo/HEAD/info.yaml
 zipPath: https://github.com/typesupply/blendo/releases/latest/download/Blendo.roboFontExt.zip
 tags:

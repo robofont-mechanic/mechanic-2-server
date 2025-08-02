@@ -4,5 +4,6 @@ developerURL: https://github.com/typedev
 extensionName: CharacterSet Switcher
 extensionPath: CharacterSet Switcher.roboFontExt
 repository: https://github.com/typedev/CharacterSetSwitcher
-tags: [glyph set]
+tags:
+- glyph set
 dateAdded: 2016-02-11 17:49:41

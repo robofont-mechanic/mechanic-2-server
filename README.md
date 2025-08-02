@@ -36,11 +36,10 @@ dateAdded: YYYY-MM-DD HH:MM:SS
 ```
 
 - Use existing tags whenever possible – see the [Mechanic 2 website] for the full list.
-- The date is used to automatically announce newly added extensions in the [Mechanic Twitter].
 - See the [Boilerplate Extension] for examples of the different URL schemes used by GitHub, GitLab and BitBucket.
 
-[Extension Item Format]: https://robofont.com/documentation/extensions/extension-item-format/
-[Mechanic Twitter]: http://twitter.com/RFMechanic
+
+[Extension Item Format]: https://robofont.com/documentation/reference/extensions/extension-item-format/
 [Boilerplate Extension]: http://github.com/robodocs/rf-extension-boilerplate
 
 

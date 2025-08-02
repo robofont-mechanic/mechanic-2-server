@@ -4,5 +4,7 @@ developerURL: http://black-foundry.com
 extensionName: Black DesignRecorder
 extensionPath: Black DesignRecorder.roboFontExt
 repository: https://github.com/BlackFoundry/DesignRecorder
-tags: [versioning, workflow]
+tags:
+- versioning
+- font generation
 dateAdded: 2016-12-18 15:43:09

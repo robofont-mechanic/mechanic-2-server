@@ -4,5 +4,7 @@ developerURL: http://www.hallotype.nl
 extensionName: PDFButtonSpace
 extensionPath: PDFButtonSpace.roboFontExt
 repository: https://github.com/thomgb/PDFButtonSpace
-tags: [proofing, spacing]
+tags:
+- text
+- spacing
 dateAdded: 2014-05-06 13:35:09

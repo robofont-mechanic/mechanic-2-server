@@ -4,5 +4,7 @@ developerURL: http://asaumierdemers.com
 extensionName: WurstSchreiber
 extensionPath: WurstSchreiber.roboFontExt
 repository: https://github.com/asaumierdemers/WurstSchreiber
-tags: [contours, drawing]
+tags:
+- contours
+- drawing
 dateAdded: 2014-02-08 17:33:48

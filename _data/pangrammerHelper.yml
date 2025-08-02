@@ -4,5 +4,6 @@ developerURL: https://www.marksimonson.com
 extensionName: PangrammerHelper
 extensionPath: PangrammerHelper.roboFontExt
 repository: https://github.com/frankrolf/PangrammerHelper
-tags: [pangrams, text]
+tags:
+- text
 dateAdded: 2020-04-05 21:35:10

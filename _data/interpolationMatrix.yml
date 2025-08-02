@@ -1,4 +1,5 @@
-description: Preview interpolation and extrapolation based on master position in a grid.
+description: Preview interpolation and extrapolation based on master position in a
+  grid.
 developer: Loïc Sander
 developerURL: https://github.com/loicsander
 extensionName: Interpolation Matrix
@@ -6,5 +7,6 @@ extensionPath: InterpolationMatrix.roboFontExt
 repository: https://github.com/roboDocs/interpolationMatrix
 infoPath: https://raw.githubusercontent.com/roboDocs/interpolationMatrix/HEAD/info.yaml
 zipPath: https://github.com/roboDocs/interpolationMatrix/releases/latest/download/InterpolationMatrix.roboFontExt.zip
-tags: [interpolation]
+tags:
+- interpolation
 dateAdded: 2014-11-04 21:01:52

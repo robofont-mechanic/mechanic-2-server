@@ -1,4 +1,5 @@
-description: Preview an interpolation in the drawing window as you edit, see how the points move my adjusting the slider.
+description: Preview an interpolation in the drawing window as you edit, see how the
+  points move my adjusting the slider.
 developer: Andy Clymer
 developerURL: http://www.andyclymer.com
 extensionName: Interpolation Slider
@@ -7,5 +8,6 @@ repository: https://github.com/roboDocs/InterpolationSliderRoboFontExt
 icon: https://raw.githubusercontent.com/roboDocs/InterpolationSliderRoboFontExt/HEAD/source/resources/icon.png
 infoPath: https://raw.githubusercontent.com/roboDocs/InterpolationSliderRoboFontExt/HEAD/info.yaml
 zipPath: https://github.com/roboDocs/InterpolationSliderRoboFontExt/releases/latest/download/Interpolation_Slider.roboFontExt.zip
-tags: [interpolation]
+tags:
+- interpolation
 dateAdded: 2018-06-25 17:30:00

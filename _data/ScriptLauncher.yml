@@ -4,6 +4,9 @@ developerURL: http://commercialtype.com
 extensionName: ScriptLauncher
 extensionPath: ScriptLauncher.roboFontExt
 repository: https://github.com/mrecord/ScriptLauncher
-tags: [ interface workflow workspace ]
+tags:
+- user interface
+- font generation
+- workspace
 dateAdded: 2021-05-14 12:00:01
 icon: https://raw.githubusercontent.com/mrecord/ScriptLauncher/master/ScriptLauncherMechanicIcon.png

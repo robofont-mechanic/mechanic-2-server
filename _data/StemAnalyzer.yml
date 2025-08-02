@@ -7,5 +7,6 @@ repository: https://github.com/roboDocs/StemAnalyzer
 infoPath: https://raw.githubusercontent.com/roboDocs/StemAnalyzer/HEAD/info.yaml
 zipPath: https://github.com/roboDocs/StemAnalyzer/releases/latest/download/StemAnalyzer.roboFontExt.zip
 icon: https://github.com/roboDocs/StemAnalyzer/blob/main/Resources/icon.png
-tags: [hinting]
+tags:
+- hinting
 dateAdded: 2023-09-25 20:05:24

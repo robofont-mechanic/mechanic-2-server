@@ -2,7 +2,8 @@ description: A tool for anchor placement, accent preview, and component position
 developer: Jens Kutilek
 developerURL: http://www.kutilek.de
 extensionName: Anchor Overlay Tool
-extensionPath: 'Anchor Overlay Tool.roboFontExt'
+extensionPath: Anchor Overlay Tool.roboFontExt
 repository: https://github.com/jenskutilek/AnchorOverlayTool
-tags: [accents]
+tags:
+- accents
 dateAdded: 2016-09-24 11:39:52

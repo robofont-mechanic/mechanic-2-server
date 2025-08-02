@@ -1,8 +1,10 @@
-description: Adjust left and right margins, with options for which glyphs in which fonts.
+description: Adjust left and right margins, with options for which glyphs in which
+  fonts.
 developer: David Jonathan Ross
 developerURL: http://www.fontbureau.com
 extensionName: Adjust Metrics
 extensionPath: AdjustMetrics/AdjustMetrics.roboFontExt
 repository: https://github.com/FontBureau/fbOpenTools
-tags: [spacing]
+tags:
+- spacing
 dateAdded: 2016-02-11 17:49:30

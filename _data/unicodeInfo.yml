@@ -4,5 +4,6 @@ developerURL: http://www.kutilek.de/
 extensionName: Unicode Info
 extensionPath: UnicodeInfo.roboFontExt
 repository: https://github.com/jenskutilek/RFUnicodeInfo
-tags: [glyph names]
+tags:
+- glyphs
 dateAdded: 2017-01-19 21:11:16

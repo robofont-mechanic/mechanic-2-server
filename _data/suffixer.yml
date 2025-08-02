@@ -4,5 +4,6 @@ developerURL: http://www.typologic.nl
 extensionName: Suffixer
 extensionPath: Suffixer.roboFontExt
 repository: https://github.com/ninastoessinger/Suffixer
-tags: [glyph names]
+tags:
+- glyphs
 dateAdded: 2016-02-11 17:49:44

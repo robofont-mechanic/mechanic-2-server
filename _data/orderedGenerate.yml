@@ -2,7 +2,8 @@ description: Applies an encoding file’s glyph order when generating a font.
 developer: Ben Kiel
 developerURL: http://www.typefounding.com
 extensionName: Ordered Generate
-extensionPath: 'Ordered Generate.roboFontExt'
+extensionPath: Ordered Generate.roboFontExt
 repository: https://github.com/Typefounding/ordered_generate
-tags: [generating fonts]
+tags:
+- font generation
 dateAdded: 2016-02-11 17:49:49

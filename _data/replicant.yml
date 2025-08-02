@@ -4,5 +4,6 @@ developerURL: http://ja.ckjennin.gs
 extensionName: Replicant
 extensionPath: Replicant.roboFontExt
 repository: https://github.com/jackjennings/Replicant
-tags: [versioning]
+tags:
+- versioning
 dateAdded: 2016-02-11 17:49:29

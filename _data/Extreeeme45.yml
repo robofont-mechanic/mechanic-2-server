@@ -1,8 +1,11 @@
-description: A RF extension to add extrema on path under 45 degrees. Select curve & press cmd+shift+e
+description: A RF extension to add extrema on path under 45 degrees. Select curve
+  & press cmd+shift+e
 developer: Jan Šindler
 developerURL: https://www.futurefonts.xyz/jan-sindler
 extensionName: Extreeeme45
 extensionPath: Extreeeme45.roboFontExt
 repository: https://github.com/jansindl3r/Extreeeme45
-tags: [contours, extreme points]
+tags:
+- contours
+- points
 dateAdded: 2020-02-12 16:00:00

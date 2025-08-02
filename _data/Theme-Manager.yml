@@ -5,5 +5,6 @@ extensionName: Theme Manager
 extensionPath: ThemeManager.roboFontExt
 repository: https://github.com/connordavenport/Theme-Manager
 icon: https://raw.githubusercontent.com/connordavenport/Theme-Manager/master/resources/Mechanic-Icon.png
-tags: [workspace]
+tags:
+- workspace
 dateAdded: 2019-06-15 16:03:24

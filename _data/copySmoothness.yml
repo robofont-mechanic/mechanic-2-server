@@ -1,8 +1,11 @@
-description: Copies point smoothness from one font to another font(s) if glyphs are interpolatable.
+description: Copies point smoothness from one font to another font(s) if glyphs are
+  interpolatable.
 developer: Ben Kiel
 developerURL: http://www.typefounding.com
 extensionName: Copy Smoothness
 extensionPath: Copy Smoothness.roboFontExt
 repository: https://github.com/typefounding/copySmoothness
-tags: [contours, interpolation]
+tags:
+- contours
+- interpolation
 dateAdded: 2016-06-07 16:28:10

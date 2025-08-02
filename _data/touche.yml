@@ -4,5 +4,7 @@ developerURL: http://www.ninastoessinger.com
 extensionName: Touché
 extensionPath: Touche.roboFontExt
 repository: https://github.com/ninastoessinger/Touche
-tags: [design helpers, kerning]
+tags:
+- design helpers
+- kerning
 dateAdded: 2016-02-11 17:49:42

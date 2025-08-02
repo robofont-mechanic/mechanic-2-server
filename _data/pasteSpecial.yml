@@ -4,7 +4,8 @@ extensionPath: PasteSpecial.roboFontExt
 description: Transfer glyph data selectively across fonts using copy paste
 developer: Bahman Eslami
 developerURL: http://bahman.design
-tags: [ paste, transfer, copy ]
+tags:
+- clipboard
 infoPath: https://gitlab.com/typoman/robofont-special-clipboard/-/raw/master/PasteSpecial.roboFontExt/info.plist
 icon: https://gitlab.com/typoman/robofont-special-clipboard/-/raw/master/roboFontPasteSpecialIcon.png
 dateAdded: 2020-07-18 10:10:10

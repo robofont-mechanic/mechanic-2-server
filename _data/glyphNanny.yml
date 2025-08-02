@@ -4,6 +4,8 @@ developerURL: http://tools.typesupply.com
 extensionName: Glyph Nanny
 extensionPath: build/Glyph Nanny.roboFontExt
 repository: https://github.com/typesupply/glyph-nanny
-tags: [contours, revisions]
+tags:
+- contours
+- versioning
 icon: https://raw.githubusercontent.com/typesupply/glyph-nanny/master/GlyphNannyMechanicIcon.png
 dateAdded: 2016-07-16 16:02:40

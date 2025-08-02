@@ -2,7 +2,8 @@ description: Tool made for exploring relationships between the components and gl
 developer: Rafał Buchner
 developerURL: http://www.rafalbuchner.com
 extensionName: GlyphPalette
-extensionPath: 'GlyphPalette.roboFontExt'
+extensionPath: GlyphPalette.roboFontExt
 repository: https://github.com/rafalbuchner/glyph-palette
-tags: [accents]
+tags:
+- accents
 dateAdded: 2019-06-10 17:39:52

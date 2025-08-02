@@ -4,6 +4,8 @@ developerURL: https://github.com/typesupply
 extensionName: Laser Measure
 extensionPath: build/Laser Measure.roboFontExt
 repository: https://github.com/typesupply/lasermeasure
-tags: [design helpers, dimensions]
+tags:
+- design helpers
+- font dimensions
 icon: https://raw.githubusercontent.com/typesupply/lasermeasure/main/laserMeasureMechanicIcon.png
 dateAdded: 2022-04-21 12:00:00

@@ -1,9 +1,11 @@
-description: A mini version of the Inspector window for quickly checking and comparing Names/Widths/Unicode. 
+description: A mini version of the Inspector window for quickly checking and comparing
+  Names/Widths/Unicode.
 developer: Mark Record
 developerURL: http://commercialtype.com
 extensionName: InspectorMini
 extensionPath: InspectorMini.roboFontExt
 repository: https://github.com/mrecord/InspectorMini
-tags: [ unicode glyph names ]
+tags:
+- unicodes
 dateAdded: 2021-05-14 12:00:01
 icon: https://raw.githubusercontent.com/mrecord/InspectorMini/master/InspectorMiniMechanicIcon.png

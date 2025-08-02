@@ -4,5 +4,6 @@ developerURL: http://ja.ckjennin.gs
 extensionName: RoboToDo
 extensionPath: RoboToDo.roboFontExt
 repository: https://github.com/jackjennings/RoboToDo
-tags: [revisions]
+tags:
+- versioning
 dateAdded: 2016-02-11 17:49:29

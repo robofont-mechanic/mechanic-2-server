@@ -4,7 +4,10 @@ description: Scale your whole font up or down.
 developer: Ryan Bugden
 developerURL: https://ryanbugden.com
 repository: https://github.com/ryanbugden/Slinky
-infoPath: https://raw.githubusercontent.com/ryanbugden/Slinky/main/Slinky.roboFontExt/info.plist
-icon: https://raw.githubusercontent.com/ryanbugden/Slinky/main/images/mechanic_icon.png
-tags: [scale, UFO, font dimensions, dimensions]
+infoPath: https://raw.githubusercontent.com/ryanbugden/Slinky/main/info.yaml
+zipPath: https://github.com/ryanbugden/Slinky/releases/latest/download/Slinky.roboFontExt.zip
+icon: https://raw.githubusercontent.com/ryanbugden/Slinky/main/source/resources/mechanic_icon.png
+tags:
+- transform
+- font dimensions
 dateAdded: 2023-10-05 12:00:00

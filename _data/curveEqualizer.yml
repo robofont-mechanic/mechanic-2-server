@@ -4,5 +4,7 @@ developerURL: http://www.kutilek.de
 extensionName: Curve Equalizer
 extensionPath: RoboFont/Curve EQ.roboFontExt
 repository: https://github.com/jenskutilek/Curve-Equalizer
-tags: [contours, design helpers]
+tags:
+- contours
+- design helpers
 dateAdded: 2016-02-11 17:49:40

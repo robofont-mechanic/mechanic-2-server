@@ -4,5 +4,7 @@ developerURL: https://github.com/gferreira
 extensionName: Group Spacing
 extensionPath: groupSpacing.roboFontExt
 repository: https://github.com/gferreira/groupSpacing
-tags: [spacing, kerning]
+tags:
+- spacing
+- kerning
 dateAdded: 2019-02-14 12:00:00

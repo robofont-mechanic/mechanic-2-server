@@ -5,5 +5,6 @@ extensionName: Rotator
 extensionPath: Rotator.roboFontExt
 repository: https://github.com/frankrolf/Rotator
 icon: https://raw.githubusercontent.com/frankrolf/Rotator/master/_images/mechanic_icon.png
-tags: [design helpers]
+tags:
+- design helpers
 dateAdded: 2016-02-11 17:49:45

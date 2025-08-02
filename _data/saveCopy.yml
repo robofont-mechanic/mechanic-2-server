@@ -6,5 +6,6 @@ extensionPath: SaveCopy.roboFontExt
 repository: https://github.com/typemytype/saveCopyRoboFontExtension
 infoPath: https://raw.githubusercontent.com/typemytype/saveCopyRoboFontExtension/HEAD/info.yaml
 zipPath: https://github.com/typemytype/saveCopyRoboFontExtension/releases/latest/download/SaveCopy.roboFontExt.zip
-tags: [UFO, versioning]
+tags:
+- versioning
 dateAdded: 2016-02-11 17:49:50

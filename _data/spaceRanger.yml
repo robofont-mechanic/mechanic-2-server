@@ -3,8 +3,14 @@ description: Preview a range of glyphs across your designspace as you draw or ke
 developer: Tal Leming
 developerURL: https://github.com/typesupply
 repository: https://github.com/typesupply/spaceranger
-extensionPath: Space_Ranger.roboFontExt
+extensionPath: Space Ranger.roboFontExt
 icon: https://raw.githubusercontent.com/typesupply/spaceranger/HEAD/spaceRangerMechanicIcon.png
 infoPath: https://raw.githubusercontent.com/typesupply/spaceranger/HEAD/info.yaml
 zipPath: https://github.com/typesupply/spaceranger/releases/latest/download/Space_Ranger.roboFontExt.zip
-tags: [ consistency, designspace, drawing, interpolation, kerning, variable fonts ]
+tags:
+- QA
+- designspace
+- drawing
+- interpolation
+- kerning
+- variable fonts

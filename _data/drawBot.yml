@@ -1,9 +1,11 @@
-description: A powerfull 2D graphics scripting tool.
+description: A powerful 2D graphics scripting tool.
 developer: DrawBot
 developerURL: http://drawbot.com
 extensionName: DrawBot
 extensionPath: DrawBot.roboFontExt
 icon: http://github.com/typemytype/drawBotRoboFontExtension/raw/master/drawBotMechanicIcon.png
 repository: https://github.com/typemytype/drawBotRoboFontExtension
-tags: [graphics, scripting]
+tags:
+- graphics
+- scripting
 dateAdded: 2016-02-11 17:49:44

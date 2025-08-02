@@ -6,5 +6,6 @@ extensionPath: Arrange Windows.roboFontExt
 repository: https://github.com/typemytype/arrangeWindowsRoboFontExtension
 infoPath: https://raw.githubusercontent.com/typemytype/arrangeWindowsRoboFontExtension/HEAD/info.yaml
 zipPath: https://github.com/typemytype/arrangeWindowsRoboFontExtension/releases/latest/download/Arrange_Windows.roboFontExt.zip
-tags: [workspace]
+tags:
+- workspace
 dateAdded: 2016-02-11 17:49:40

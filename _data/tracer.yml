@@ -6,5 +6,6 @@ extensionPath: Tracer.roboFontExt
 repository: https://github.com/typemytype/tracerRoboFontExtension
 infoPath: https://raw.githubusercontent.com/typemytype/tracerRoboFontExtension/HEAD/info.yaml
 zipPath: https://github.com/roberto-arista/tracerRoboFontExtension/releases/latest/download/Tracer.roboFontExt.zip
-tags: [contours]
+tags:
+- contours
 dateAdded: 2016-10-10 13:41:53

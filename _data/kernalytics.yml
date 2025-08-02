@@ -4,5 +4,6 @@ developerURL: https://github.com/adobe-type-tools
 extensionName: Kern-A-Lytics
 extensionPath: Kern-A-Lytics.roboFontExt
 repository: https://github.com/adobe-type-tools/kernalytics-rf-ext
-tags: [kerning]
+tags:
+- kerning
 dateAdded: 2019-01-25 12:00:00

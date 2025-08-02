@@ -1,8 +1,10 @@
-description: Display a readout of the unicode character represented by the current glyph, its hex unicode value(s), and unicode name.
+description: Display a readout of the unicode character represented by the current
+  glyph, its hex unicode value(s), and unicode name.
 developer: David Jonathan Ross
 developerURL: http://www.fontbureau.com
 extensionName: Show Character Info
 extensionPath: ShowCharacterInfo/ShowCharacterInfo.roboFontExt
 repository: https://github.com/FontBureau/fbOpenTools
-tags: [glyph names]
+tags:
+- glyphs
 dateAdded: 2016-02-11 17:49:36

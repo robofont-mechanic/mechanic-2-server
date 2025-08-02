@@ -5,4 +5,7 @@ extensionName: De Casteljau
 extensionPath: DeCasteljau.roboFontExt
 repository: https://github.com/luke-snider/de-casteljau
 icon: https://raw.githubusercontent.com/luke-snider/de-casteljau/master/casteljau_icon.png
-tags: [design helpers, contours, drawing]
+tags:
+- design helpers
+- contours
+- drawing

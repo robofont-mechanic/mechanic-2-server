@@ -4,6 +4,10 @@ developerURL: https://github.com/typesupply
 extensionName: Merz Playground
 extensionPath: build/Merz Playground.roboFontExt
 repository: https://github.com/typesupply/merzplayground
-tags: [debugging, graphics, interface, scripting]
+tags:
+- debugging
+- graphics
+- user interface
+- scripting
 icon: https://raw.githubusercontent.com/typesupply/merzplayground/master/merzPlaygroundMechanicIcon.png
 dateAdded: 2021-07-21 10:43:00

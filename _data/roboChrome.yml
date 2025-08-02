@@ -4,5 +4,6 @@ developerURL: https://github.com/jenskutilek
 extensionName: RoboChrome
 extensionPath: RoboChrome.roboFontExt
 repository: https://github.com/jenskutilek/RoboChrome
-tags: [generating fonts]
+tags:
+- font generation
 dateAdded: 2016-02-11 17:49:42

@@ -6,5 +6,6 @@ extensionPath: PenBallWizard.roboFontExt
 repository: https://github.com/roboDocs/PenBallWizard
 infoPath: https://raw.githubusercontent.com/roboDocs/PenBallWizard/HEAD/info.yaml
 zipPath: https://github.com/roboDocs/PenBallWizard/releases/latest/download/PenBallWizard.roboFontExt.zip
-tags: [contours]
+tags:
+- contours
 dateAdded: 2015-05-08 17:07:37

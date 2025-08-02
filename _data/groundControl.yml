@@ -6,5 +6,6 @@ extensionPath: Ground-Control.roboFontExt
 repository: https://github.com/roboDocs/GroundControl
 infoPath: https://raw.githubusercontent.com/roboDocs/GroundControl/HEAD/info.yaml
 zipPath: https://github.com/roboDocs/GroundControl/releases/latest/download/Ground-Control.roboFontExt.zip
-tags: [spacing]
+tags:
+- spacing
 dateAdded: 2014-05-20 18:36:27

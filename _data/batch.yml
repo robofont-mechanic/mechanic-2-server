@@ -6,5 +6,7 @@ extensionPath: Batch.roboFontExt
 repository: https://github.com/typemytype/batchRoboFontExtension
 infoPath: https://raw.githubusercontent.com/typemytype/batchRoboFontExtension/HEAD/info.yaml
 zipPath: https://github.com/typemytype/batchRoboFontExtension/releases/latest/download/Batch.roboFontExt.zip
-tags: [generating fonts, variable fonts]
+tags:
+- font generation
+- variable fonts
 dateAdded: 2016-02-11 17:49:47

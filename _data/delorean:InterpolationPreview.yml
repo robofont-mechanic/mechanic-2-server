@@ -5,5 +5,6 @@ extensionName: 'Delorean: Interpolation Preview'
 extensionPath: Delorean/Delorean.roboFontExt
 repository: https://github.com/cjdunn/delorean
 icon: https://raw.githubusercontent.com/cjdunn/delorean/main/Delorean/Delorean.roboFontExt/html/DeloreanMechanicIcon.png
-tags: [interpolation]
+tags:
+- interpolation
 dateAdded: 2016-02-11 17:49:29

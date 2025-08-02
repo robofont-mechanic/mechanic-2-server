@@ -6,5 +6,6 @@ extensionPath: Profile.roboFontExt
 repository: https://github.com/typemytype/profileRoboFontExtension
 infoPath: https://raw.githubusercontent.com/typemytype/profileRoboFontExtension/HEAD/info.yaml
 zipPath: https://github.com/typemytype/profileRoboFontExtension/releases/latest/download/Profile.roboFontExt.zip
-tags: [debugging]
+tags:
+- debugging
 dateAdded: 2016-02-11 17:49:48

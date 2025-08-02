@@ -4,5 +4,7 @@ developerURL: http://www.typologic.nl
 extensionName: word-o-mat
 extensionPath: word-o-mat.roboFontExt
 repository: https://github.com/ninastoessinger/word-o-mat
-tags: [proofing, spacing, text]
+tags:
+- text
+- spacing
 dateAdded: 2016-02-11 17:49:35

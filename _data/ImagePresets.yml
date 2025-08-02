@@ -1,0 +1,12 @@
+description: Create and use image presets for the glyph editor.
+developer: Adrien Bachelart
+developerURL: https://github.com/adbac
+extensionName: Image Presets
+extensionPath: ImagePresets.roboFontExt
+repository: https://github.com/adbac/ImagePresets
+tags:
+- images
+infoPath: https://raw.githubusercontent.com/adbac/ImagePresets/HEAD/info.yaml
+icon: https://raw.githubusercontent.com/adbac/ImagePresets/HEAD/ImagePresetsMechanicIcon.png
+zipPath: https://github.com/adbac/ImagePresets/releases/latest/download/ImagePresets.roboFontExt.zip
+dateAdded: 2025-01-08 11:45:00

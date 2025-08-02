@@ -4,5 +4,6 @@ developerURL: http://www.frgr.de
 extensionName: showDist
 extensionPath: showDist.roboFontExt
 repository: https://github.com/frankrolf/showDist
-tags: [design helpers]
+tags:
+- design helpers
 dateAdded: 2016-02-11 17:49:44

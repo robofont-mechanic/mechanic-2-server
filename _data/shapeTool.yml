@@ -6,5 +6,7 @@ extensionPath: ShapeTool.roboFontExt
 repository: https://github.com/typemytype/shapeToolRoboFontExtension
 infoPath: https://raw.githubusercontent.com/typemytype/shapeToolRoboFontExtension/HEAD/info.yaml
 zipPath: https://github.com/typemytype/shapeToolRoboFontExtension/releases/latest/download/ShapeTool.roboFontExt.zip
-tags: [contours, drawing]
+tags:
+- contours
+- drawing
 dateAdded: 2016-02-11 17:49:32

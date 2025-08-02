@@ -4,6 +4,7 @@ developerURL: https://github.com/typesupply
 extensionName: Guide Tool
 extensionPath: build/Guide Tool.roboFontExt
 repository: https://github.com/typesupply/guidetool
-tags: [guideline, guides]
+tags:
+- guidelines
 icon: https://raw.githubusercontent.com/typesupply/guidetool/main/guideToolMechanicIcon.png
 dateAdded: 2021-07-22 21:48:00

@@ -1,8 +1,12 @@
-description: A RF extension to add guides on a selected segment. Select segment & by default press cmd+/
+description: A RF extension to add guides on a selected segment. Select segment &
+  by default press cmd+/
 developer: Jan Šindler
 developerURL: https://www.futurefonts.xyz/jan-sindler
 extensionName: Add segment guideline
 extensionPath: AddSegmentGuideline.roboFontExt
 repository: https://github.com/jansindl3r/Add-segment-guideline
-tags: [contours, guideline, glyph, segment]
+tags:
+- contours
+- guidelines
+- glyphs
 dateAdded: 2020-03-18 20:45:00

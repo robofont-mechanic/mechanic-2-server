@@ -1,9 +1,13 @@
-description: A tool for browsing and selecting unicode values, glyphnames, categories, lists.
+description: A tool for browsing and selecting unicode values, glyphnames, categories,
+  lists.
 developer: LettError
 developerURL: http://letterror.com
 extensionName: GlyphBrowser
 extensionPath: GlyphBrowser.roboFontExt
 repository: https://github.com/LettError/glyphBrowser
-tags: [unicode, glyph names, languages, glyph set, encoding]
+tags:
+- unicode
+- glyphs
+- glyph set
 icon: https://raw.githubusercontent.com/LettError/glyphBrowser/master/GlyphBrowserMechanicIcon.png
 dateAdded: 2016-02-28 16:00:34

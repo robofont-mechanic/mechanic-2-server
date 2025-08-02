@@ -2,4 +2,4 @@
 {%- for extension in site.data -%}
     {%- assign extensions_unsorted = extensions_unsorted | push: extension[1] -%}
 {%- endfor -%}
-{%- assign extensions = extensions_unsorted | sort:'extensionName' -%}
+{%- assign extensions = extensions_unsorted | sort_natural:'extensionName' -%}

@@ -4,6 +4,8 @@ developerURL: https://github.com/typesupply
 extensionName: Paste Glyph
 extensionPath: build/Paste Glyph.roboFontExt
 repository: https://github.com/typesupply/pasteglyph
-tags: [design helpers, drawing]
+tags:
+- design helpers
+- drawing
 icon: https://raw.githubusercontent.com/typesupply/pasteglyph/master/pasteGlyphMechanicIcon.png
 dateAdded: 2019-04-17 09:15:00

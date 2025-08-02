@@ -2,7 +2,8 @@ description: Display and delete hidden data in your UFOs.
 developer: Jens Kutilek
 developerURL: http://www.kutilek.de
 extensionName: UFO Cleaner
-extensionPath: 'Extensions/UFO Cleaner.roboFontExt'
+extensionPath: Extensions/UFO Cleaner.roboFontExt
 repository: https://github.com/jenskutilek/RoboFont
-tags: [debugging, UFO]
+tags:
+- debugging
 dateAdded: 2016-02-11 17:49:35

@@ -7,5 +7,6 @@ repository: https://github.com/typemytype/pathOperatorRoboFontExtension
 infoPath: https://raw.githubusercontent.com/typemytype/pathOperatorRoboFontExtension/HEAD/info.yaml
 zipPath: https://github.com/typemytype/pathOperatorRoboFontExtension/releases/latest/download/PathOperator.roboFontExt.zip
 icon: http://github.com/typemytype/pathOperatorRoboFontExtension/raw/master/pathOperatorMechanicIcon.png
-tags: [contours]
+tags:
+- contours
 dateAdded: 2016-02-11 17:49:48

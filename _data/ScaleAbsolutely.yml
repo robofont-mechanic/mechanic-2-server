@@ -1,8 +1,12 @@
-description: An extension to scale absolutely in points, not percentages. It adds this option into inspector.
+description: An extension to scale absolutely in points, not percentages. It adds
+  this option into inspector.
 developer: Jan Šindler
 developerURL: https://www.futurefonts.xyz/jan-sindler
 extensionName: Scale, absolutely!
 extensionPath: scaleAbsolutely.robofontExt
 repository: https://github.com/jansindl3r/Scale-absolutely
-tags: [scale, contours, glyph]
+tags:
+- transform
+- contours
+- glyphs
 dateAdded: 2020-04-06 12:30:00

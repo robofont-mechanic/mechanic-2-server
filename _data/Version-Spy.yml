@@ -5,7 +5,7 @@ description: Display RF version information in the App menu (restart required)
 icon: https://raw.githubusercontent.com/ohnotypeco/Version-Spy-Ext/main/Version-Spy.roboFontExt/resources/icon.png
 developer: OH no Type Co.
 developerURL: https://github.com/ohnotypeco
-tags: 
-  - debugging
-  - workspace
+tags:
+- debugging
+- workspace
 dateAdded: 2023-03-10 17:00:00

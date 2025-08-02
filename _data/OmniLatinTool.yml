@@ -1,0 +1,12 @@
+extensionName: OmniLatin Tool
+repository: https://github.com/SharpType/OmniLatinTool-Extension
+extensionPath: OmniLatinTool.roboFontExt
+description: An extension that streamlines the creation of OmniLatin glyph sets.
+developer: Sharp Type, Marte Verhaegen
+developerURL: http://www.sharptype.co
+tags:
+- mark colors
+- glyph set
+infoPath: https://raw.githubusercontent.com/SharpType/OmniLatinTool-Extension/HEAD/info.yaml
+zipPath: https://github.com/SharpType/OmniLatinTool-Extension/releases/latest/download/OmniLatinTool.roboFontExt.zip
+icon: https://raw.githubusercontent.com/SharpType/OmniLatinTool-Extension/refs/heads/main/OmniLatinToolMechanicIcon.png

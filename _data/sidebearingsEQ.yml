@@ -4,5 +4,6 @@ developerURL: http://www.github.com/franzheidl
 extensionName: SidebearingsEQ
 extensionPath: SidebearingsEQ.roboFontExt
 repository: https://github.com/franzheidl/SidebearingsEQ
-tags: [spacing]
+tags:
+- spacing
 dateAdded: 2013-04-13 22:24:04

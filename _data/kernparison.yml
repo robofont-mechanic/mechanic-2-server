@@ -1,0 +1,14 @@
+extensionName: Kernparison
+extensionPath: Kernparison.roboFontExt
+description: Compare kerning against your entire designspace.
+developer: Ryan Bugden
+developerURL: https://ryanbugden.com
+repository: https://github.com/ryanbugden/Kernparison
+infoPath: https://raw.githubusercontent.com/ryanbugden/Kernparison/main/info.yaml
+zipPath: https://github.com/ryanbugden/Kernparison/releases/latest/download/Kernparison.roboFontExt.zip
+icon: https://raw.githubusercontent.com/ryanbugden/Kernparison/main/source/resources/mechanic_icon.png
+tags:
+- kerning
+- designspace
+- masters
+dateAdded: 2025-10-21 10:00:00

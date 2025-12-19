@@ -1,0 +1,12 @@
+description: Helper tool for creating mark features
+developer: Adobe Type Tools
+developerURL: https://github.com/adobe-type-tools
+extensionName: Mark Feature Helper
+extensionPath: AdjustAnchors.roboFontExt
+repository: https://github.com/adobe-type-tools/mark-feature-helper-rf-ext
+infoPath: https://raw.githubusercontent.com/typemytype/ramsayStreetRoboFontExtension/HEAD/info.yaml
+zipPath: https://github.com/typemytype/ramsayStreetRoboFontExtension/releases/latest/download/RamsaySt.roboFontExt.zip
+tags:
+- accents
+- features
+dateAdded: 2025-12-17 23:00:00

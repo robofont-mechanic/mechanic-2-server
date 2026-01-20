@@ -1,0 +1,13 @@
+extensionName: Glyph Showcaser
+extensionPath: GlyphShowcaser.roboFontExt
+description: Create images of your drawings inside RoboFont.
+developer: Jacob Tegel
+developerURL: https://jacobtegel.com
+repository: https://github.com/jacobtegel/GlyphShowcaser
+infoPath: https://raw.githubusercontent.com/jacobtegel/GlyphShowcaser/refs/heads/main/info.yaml
+zipPath: https://github.com/jacobtegel/GlyphShowcaser/releases/download/1/GlyphShowcaser.roboFontExt.zip
+icon: https://raw.githubusercontent.com/jacobtegel/GlyphShowcaser/refs/heads/main/source/resources/GlyphShowcaser-icon.png
+tags:
+- graphics
+- user interface
+dateAdded: 2025-12-18 22:32:00

@@ -6,7 +6,7 @@ extensionPath: StemAnalyzer.roboFontExt
 repository: https://github.com/roboDocs/StemAnalyzer
 infoPath: https://raw.githubusercontent.com/roboDocs/StemAnalyzer/HEAD/info.yaml
 zipPath: https://github.com/roboDocs/StemAnalyzer/releases/latest/download/StemAnalyzer.roboFontExt.zip
-icon: https://github.com/roboDocs/StemAnalyzer/blob/main/Resources/icon.png
+icon: https://github.com/roboDocs/StemAnalyzer/blob/main/source/resources/icon.png
 tags:
 - hinting
 dateAdded: 2023-09-25 20:05:24

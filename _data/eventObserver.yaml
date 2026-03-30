@@ -4,7 +4,7 @@ developerURL: http://typemytype.com
 extensionName: eventObserver
 extensionPath: eventObserver.roboFontExt
 repository: https://github.com/roboDocs/eventObserverExtension
-infoPath: https://raw.githubusercontent.com//roboDocs/eventObserverExtension/HEAD/info.yaml
+infoPath: https://raw.githubusercontent.com/roboDocs/eventObserverExtension/HEAD/info.yaml
 zipPath: https://github.com/roboDocs/eventObserverExtension/releases/latest/download/eventObserver.roboFontExt.zip
 tags: [debugging]
 dateAdded: 2019-02-09 12:00:00

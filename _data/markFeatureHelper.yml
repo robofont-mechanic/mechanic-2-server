@@ -1,0 +1,12 @@
+description: Helper tool for creating mark features
+developer: Adobe Type Tools
+developerURL: https://github.com/adobe-type-tools
+extensionName: Mark Feature Helper
+extensionPath: Mark Feature Helper.roboFontExt
+repository: https://github.com/adobe-type-tools/mark-feature-helper-rf-ext
+infoPath: https://raw.githubusercontent.com/adobe-type-tools/mark-feature-helper-rf-ext/refs/heads/main/rf_extension/info.yaml
+zipPath: https://github.com/adobe-type-tools/mark-feature-helper-rf-ext/releases/download/1.0/Mark.Feature.Helper.roboFontExt.zip
+tags:
+- accents
+- features
+dateAdded: 2026-01-17 22:00:00

@@ -1,0 +1,13 @@
+extensionName: xTools4
+description: A general-purpose font production toolbox + expert tools for parametric variable fonts.
+developer: Gustavo Ferreira
+developerURL: https://github.com/gferreira
+repository: https://github.com/gferreira/xTools4
+extensionPath: xTools4.roboFontExt
+icon: https://raw.githubusercontent.com/gferreira/xTools4/main/Resources/icon.png
+infoPath: https://raw.githubusercontent.com/gferreira/xTools4/HEAD/info.yaml
+zipPath: https://github.com/gferreira/xTools4/archive/main.zip
+tags:
+- design helpers
+- variable fonts
+dateAdded: 2026-05-30 12:00:00

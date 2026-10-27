@@ -1,0 +1,14 @@
+extensionName: Handler
+extensionPath: Handler.roboFontExt
+description: Quickly change off-curve handle lengths.
+developer: Ryan Bugden
+developerURL: https://ryanbugden.com
+repository: https://github.com/ryanbugden/Handler
+infoPath: https://raw.githubusercontent.com/ryanbugden/Handler/main/info.yaml
+zipPath: https://github.com/ryanbugden/Handler/releases/latest/download/Handler.roboFontExt.zip
+icon: https://raw.githubusercontent.com/ryanbugden/Handler/main/source/resources/mechanic_icon.png
+tags:
+- drawing
+- points
+- glyph editor
+dateAdded: 2026-10-26 10:00:00

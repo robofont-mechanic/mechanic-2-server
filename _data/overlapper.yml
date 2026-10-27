@@ -4,7 +4,9 @@ developerURL: https://ryanbugden.com
 extensionName: Overlapper
 extensionPath: Overlapper.roboFontExt
 repository: https://github.com/ryanbugden/Overlapper
-icon: https://raw.githubusercontent.com/ryanbugden/Overlapper/main/_images/mechanic_icon.png
+infoPath: https://raw.githubusercontent.com/ryanbugden/Overlapper/main/info.yaml
+zipPath: https://github.com/ryanbugden/Overlapper/releases/latest/download/Overlapper.roboFontExt.zip
+icon: https://raw.githubusercontent.com/ryanbugden/Overlapper/main/source/resources/mechanic_icon.png
 tags:
 - contours
 - drawing

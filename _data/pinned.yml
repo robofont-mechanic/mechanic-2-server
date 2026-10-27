@@ -1,0 +1,11 @@
+description: Pinned allows you to pin your favorite extensions at the top of your RoboFont extensions menu.
+developer: Connor Davenport
+developerURL: http://programme.tools
+extensionName: Pinned
+extensionPath: Pinned.roboFontExt
+repository: https://github.com/connordavenport/pinned-ext
+infoPath: https://raw.githubusercontent.com/connordavenport/pinned-ext/master/info.yaml
+zipPath: https://github.com/connordavenport/pinned-ext/releases/latest/download/Pinned.roboFontExt.zip
+tags:
+- extension management
+dateAdded: 2026-07-15 17:33:10
